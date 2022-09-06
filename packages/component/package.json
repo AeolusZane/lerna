@@ -1,10 +1,10 @@
 {
   "name": "@self/component",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "@self/core": "^1.0.0",
+    "@self/core": "^1.0.1",
     "typescript": "^4.8.2"
   },
   "gitHead": "9bcaaf4a61f199ac85e4e1d8901a2260ee85d103"
