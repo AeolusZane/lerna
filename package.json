@@ -2,5 +2,12 @@
   "name": "lerna",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "private":true,
+  "license": "MIT",
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "lerna": "^5.4.2"
+  }
 }
